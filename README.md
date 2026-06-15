@@ -10,19 +10,19 @@ and troubleshooting skills required for IT Analyst roles at credit unions.
 _________________________________________________________________________________________________________________________________________________________________________
 📋 Project Objective
 
-Demonstrate core IT infrastructure skills:
-System setup and configuration
-Real-time monitoring
-Log analysis and pattern recognition
-Incident diagnosis and root cause analysis
-Production recovery procedures
-Professional documentation
+- Demonstrate core IT infrastructure skills:
+- System setup and configuration
+- Real-time monitoring
+- Log analysis and pattern recognition
+- Incident diagnosis and root cause analysis
+- Production recovery procedures
+- Professional documentation
 
 _________________________________________________________________________________________________________________________________________________________________________
 
 Programs Used: 
 Cloud Platform: Microsoft Azure 
-Microsft Remote Desktop Protocol
+Microsft Remote Desktop Protocol + Windows VM
 Operating System: Windows Server 2022
 Web Server: IIS 10.0
 Monitoring Tool: Performance Monitor
